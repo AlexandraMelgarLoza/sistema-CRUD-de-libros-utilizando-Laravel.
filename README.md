@@ -1,6 +1,6 @@
-# 📚 CRUD de Libros con Laravel y Voyager
+ CRUD de Libros con Laravel y Voyager
 
-## 📌 Descripción
+##  Descripción
 Este proyecto es una aplicación web desarrollada con Laravel que implementa un sistema CRUD (Create, Read, Update, Delete) para la gestión de libros.  
 
 Permite:
